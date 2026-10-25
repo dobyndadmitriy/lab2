@@ -1,0 +1,14 @@
+C:\lab 2\bin\Debug\net10.0\lab 2.exe
+C:\lab 2\bin\Debug\net10.0\lab 2.deps.json
+C:\lab 2\bin\Debug\net10.0\lab 2.runtimeconfig.json
+C:\lab 2\bin\Debug\net10.0\lab 2.dll
+C:\lab 2\bin\Debug\net10.0\lab 2.pdb
+C:\lab 2\obj\Debug\net10.0\lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab 2\obj\Debug\net10.0\lab 2.AssemblyInfoInputs.cache
+C:\lab 2\obj\Debug\net10.0\lab 2.AssemblyInfo.cs
+C:\lab 2\obj\Debug\net10.0\lab 2.csproj.CoreCompileInputs.cache
+C:\lab 2\obj\Debug\net10.0\lab 2.dll
+C:\lab 2\obj\Debug\net10.0\refint\lab 2.dll
+C:\lab 2\obj\Debug\net10.0\lab 2.pdb
+C:\lab 2\obj\Debug\net10.0\lab 2.genruntimeconfig.cache
+C:\lab 2\obj\Debug\net10.0\ref\lab 2.dll
